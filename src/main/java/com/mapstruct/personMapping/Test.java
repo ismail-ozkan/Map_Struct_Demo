@@ -8,7 +8,7 @@ public class Test {
 
         Person person = new Person();
         person.setFirstName("Ali");
-        person.setLastName("Veli");
+        person.setLastName("Yılmaz");
         person.setAge(33);
 
 

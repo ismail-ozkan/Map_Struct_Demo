@@ -15,3 +15,11 @@ To use MapStruct in your project, add the following dependency to your `pom.xml`
     <version>1.5.5.Final</version>
 </dependency>
 ```
+
+## Features
+
+- **Object Mapping**: Automatically map between different class types like DTOs, Entities, and other custom objects.
+- **Clean Code**: Simplifies complex mapping logic, making the codebase cleaner and easier to maintain.
+- **Easy Integration**: Works seamlessly with Maven-based Java projects.
+
+---
